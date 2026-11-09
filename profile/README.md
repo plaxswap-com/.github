@@ -6,6 +6,7 @@
 
 | Repository | What it is |
 |---|---|
+| [crypto-payment-gateway-integration](https://github.com/plaxswap-com/crypto-payment-gateway-integration) | Step-by-step guides to accept Bitcoin and crypto payments on any website: account and keys, the payment workflow, webhooks, testing and a go-live checklist, with tested examples in Node.js, PHP, Python and curl. |
 | [plaxswap-crypto-payments](https://github.com/plaxswap-com/plaxswap-crypto-payments) | WooCommerce plugin. Customers pay with Bitcoin, USDT, Ether and other coins, and the order moves to Processing once the payment is verified. The same plugin is on [WordPress.org](https://wordpress.org/plugins/plaxswap-crypto-payments/). |
 
 ## Build with Plaxswap
